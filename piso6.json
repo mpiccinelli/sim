@@ -27,7 +27,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.json"
+                         "value":"map.json#entry-to-floor-7"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -41,6 +41,12 @@
                  "id":97,
                  "name":"entry-to-floor-6",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":64,
