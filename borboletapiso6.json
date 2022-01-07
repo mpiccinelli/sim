@@ -66,6 +66,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.4
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"src\/assets\/Borboleta.mp3"
