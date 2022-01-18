@@ -218,6 +218,26 @@
                          "width":100,
                          "x":1899.07575757576,
                          "y":1051.40909090909
+                        }, 
+                        {
+                         "height":19,
+                         "id":32,
+                         "name":"",
+                         "rotation":0,
+                         "text":
+                            {
+                             "fontfamily":"MS Shell Dlg 2",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"Cocinar",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":100,
+                         "x":1486.07575757576,
+                         "y":636.40909090909
                         }],
                  "offsetx":-8.66666666666674,
                  "offsety":-6.66666666666674,
@@ -250,7 +270,7 @@
          "y":0
         }],
  "nextlayerid":111,
- "nextobjectid":32,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
