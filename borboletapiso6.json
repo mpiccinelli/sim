@@ -206,19 +206,7 @@
                  "visible":true,
                  "x":0,
                  "y":0
-                }],
-         "name":"Piso 6",
-         "offsetx":-2.90909090909099,
-         "offsety":-0.242424242424249,
-         "opacity":1,
-         "type":"group",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":110,
-         "layers":[
+                }, 
                 {
                  "draworder":"topdown",
                  "id":102,
@@ -483,7 +471,9 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"Texts",
+         "name":"Piso 6",
+         "offsetx":-2.90909090909099,
+         "offsety":-0.242424242424249,
          "opacity":1,
          "type":"group",
          "visible":true,
