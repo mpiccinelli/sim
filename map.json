@@ -430,24 +430,7 @@
                  "draworder":"topdown",
                  "id":74,
                  "name":"floorLayer",
-                 "objects":[
-                        {
-                         "height":2064,
-                         "id":37,
-                         "name":"",
-                         "properties":[
-                                {
-                                 "name":"focusable",
-                                 "type":"bool",
-                                 "value":true
-                                }],
-                         "rotation":0,
-                         "type":"zone",
-                         "visible":true,
-                         "width":2052,
-                         "x":4,
-                         "y":-8
-                        }],
+                 "objects":[],
                  "opacity":1,
                  "type":"objectgroup",
                  "visible":true,
