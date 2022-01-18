@@ -432,7 +432,7 @@
                  "name":"floorLayer",
                  "objects":[
                         {
-                         "height":1644,
+                         "height":2064,
                          "id":37,
                          "name":"",
                          "properties":[
@@ -444,9 +444,9 @@
                          "rotation":0,
                          "type":"zone",
                          "visible":true,
-                         "width":1468,
-                         "x":344,
-                         "y":240
+                         "width":2052,
+                         "x":4,
+                         "y":-8
                         }],
                  "opacity":1,
                  "type":"objectgroup",
@@ -462,7 +462,7 @@
          "y":0
         }],
  "nextlayerid":111,
- "nextobjectid":39,
+ "nextobjectid":40,
  "orientation":"orthogonal",
  "properties":[
         {
