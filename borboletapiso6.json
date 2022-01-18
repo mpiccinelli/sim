@@ -206,7 +206,7 @@
                          "rotation":0,
                          "text":
                             {
-                             "fontfamily":"MS Shell Dlg 2",
+                             "fontfamily":"Arial",
                              "halign":"center",
                              "pixelsize":11,
                              "text":"Leer un buen libro",
@@ -226,7 +226,7 @@
                          "rotation":0,
                          "text":
                             {
-                             "fontfamily":"MS Shell Dlg 2",
+                             "fontfamily":"Arial",
                              "halign":"center",
                              "pixelsize":11,
                              "text":"Cocinar",
@@ -235,9 +235,129 @@
                             },
                          "type":"",
                          "visible":true,
-                         "width":100,
-                         "x":1486.07575757576,
+                         "width":41,
+                         "x":1514.07575757576,
                          "y":636.40909090909
+                        }, 
+                        {
+                         "height":19,
+                         "id":35,
+                         "name":"",
+                         "rotation":0,
+                         "text":
+                            {
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"Ir a bailar",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":46,
+                         "x":1530.07575757576,
+                         "y":101.40909090909
+                        }, 
+                        {
+                         "height":19,
+                         "id":33,
+                         "name":"",
+                         "rotation":0,
+                         "text":
+                            {
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"Hacer deporte",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":74,
+                         "x":1453.07575757576,
+                         "y":484.40909090909
+                        }, 
+                        {
+                         "height":19,
+                         "id":34,
+                         "name":"",
+                         "rotation":0,
+                         "text":
+                            {
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"Pasear",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":37,
+                         "x":1256.07575757576,
+                         "y":482.40909090909
+                        }, 
+                        {
+                         "height":19,
+                         "id":36,
+                         "name":"",
+                         "rotation":0,
+                         "text":
+                            {
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"Tocar m\u00fasica",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":67,
+                         "x":1045.07575757576,
+                         "y":478.40909090909
+                        }, 
+                        {
+                         "height":19,
+                         "id":37,
+                         "name":"",
+                         "rotation":0,
+                         "text":
+                            {
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"Jugar juegos online",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":96,
+                         "x":681.07575757576,
+                         "y":481.40909090909
+                        }, 
+                        {
+                         "height":19,
+                         "id":38,
+                         "name":"",
+                         "rotation":0,
+                         "text":
+                            {
+                             "fontfamily":"Arial",
+                             "halign":"center",
+                             "pixelsize":11,
+                             "text":"Ir al cine",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":46,
+                         "x":418.07575757576,
+                         "y":963.40909090909
                         }],
                  "offsetx":-8.66666666666674,
                  "offsety":-6.66666666666674,
@@ -270,7 +390,7 @@
          "y":0
         }],
  "nextlayerid":111,
- "nextobjectid":33,
+ "nextobjectid":39,
  "orientation":"orthogonal",
  "properties":[
         {
