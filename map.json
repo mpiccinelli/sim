@@ -127,6 +127,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"meet-sala-zen-piso-7"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
