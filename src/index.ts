@@ -13,7 +13,7 @@ WA.room.onEnterZone('clock', () => {
     currentPopup =  WA.ui.openPopup("clockPopup","It's " + time,[]);
 })
 
-WA.room.onLeaveZone('clock', closePopUp)
+WA.room.onLeaveZone('clock', closePopUp);
 
 function closePopUp(){
     if (currentPopup !== undefined) {
@@ -21,6 +21,8 @@ function closePopUp(){
         currentPopup = undefined;
     }
 }
+
+WA.chat.sendChatMessage('Hello world', 'Mr Robot');
 
 let helloWorldPopup;
 
@@ -39,4 +41,4 @@ helloWorldPopup = WA.room.onEnterLayer("myZone").subscribe(() => {
 // Close the popup when we leave the zone.
 WA.room.onLeaveLayer("myZone").subscribe(() => {
     helloWorldPopup.close();
-})
+});
