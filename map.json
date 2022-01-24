@@ -27,7 +27,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"borboletapiso6#entry-to-floor-6"
+                         "value":"borboletapiso6.json#entry-to-floor-6"
                         }],
                  "type":"tilelayer",
                  "visible":true,
