@@ -439,6 +439,28 @@
                 }, 
                 {
                  "draworder":"topdown",
+                 "id":115,
+                 "name":"clock",
+                 "objects":[
+                        {
+                         "height":55.3333333333333,
+                         "id":39,
+                         "name":"clock",
+                         "rotation":0,
+                         "type":"",
+                         "visible":true,
+                         "width":67.3333333333333,
+                         "x":862.242424242424,
+                         "y":994.242424242424
+                        }],
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "draworder":"topdown",
                  "id":88,
                  "name":"floorLayer",
                  "objects":[],
@@ -457,8 +479,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":115,
- "nextobjectid":39,
+ "nextlayerid":116,
+ "nextobjectid":40,
  "orientation":"orthogonal",
  "properties":[
         {
