@@ -440,12 +440,12 @@
                 {
                  "draworder":"topdown",
                  "id":115,
-                 "name":"clock",
+                 "name":"popup",
                  "objects":[
                         {
                          "height":55.3333333333333,
                          "id":39,
-                         "name":"clock",
+                         "name":"popupRectangle",
                          "rotation":0,
                          "type":"",
                          "visible":true,
