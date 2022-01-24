@@ -518,6 +518,12 @@
                          "height":33,
                          "id":41,
                          "name":"",
+                         "properties":[
+                                {
+                                 "name":"audioVolume",
+                                 "type":"float",
+                                 "value":0.3
+                                }],
                          "rotation":0,
                          "text":
                             {
