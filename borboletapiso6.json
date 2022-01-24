@@ -445,7 +445,7 @@
                         {
                          "height":55.3333333333333,
                          "id":39,
-                         "name":"popupRectangle",
+                         "name":"myZone",
                          "rotation":0,
                          "type":"",
                          "visible":true,
