@@ -493,7 +493,7 @@
                  "name":"floorLayer",
                  "objects":[
                         {
-                         "height":81,
+                         "height":48,
                          "id":42,
                          "name":"popupRectangle",
                          "rotation":0,
@@ -501,7 +501,7 @@
                          "visible":true,
                          "width":70,
                          "x":339.909090909091,
-                         "y":989.242424242424
+                         "y":940.242424242424
                         }],
                  "opacity":1,
                  "type":"objectgroup",
