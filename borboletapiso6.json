@@ -27,7 +27,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.json#entry-to-floor-7"
+                         "value":"map#entry-to-floor-7"
                         }],
                  "type":"tilelayer",
                  "visible":true,
