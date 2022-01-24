@@ -21,5 +21,3 @@ function closePopUp(){
         currentPopup = undefined;
     }
 }
-
-WA.chat.sendChatMessage('Hello world', 'Mr Robot');
