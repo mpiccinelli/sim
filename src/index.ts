@@ -5,20 +5,10 @@ import {bootstrapExtra} from "@workadventure/scripting-api-extra";
 // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure.
 bootstrapExtra().catch(e => console.error(e));
 
-let currentPopup: any = undefined;
-const today = new Date();
-const time = today.getHours() + ":" + today.getMinutes();
-
 WA.room.onEnterLayer('clockZone').subscribe(() => {
-    console.log('toto')
-    currentPopup =  WA.ui.openPopup("clockPopup","It's " + time,[]);
-})
+    WA.chat.sendChatMessage("Hello!", 'Mr Robot');
+});
 
-WA.room.onLeaveLayer('clockZone').subscribe(closePopUp)
-
-function closePopUp(){
-    if (currentPopup !== undefined) {
-        currentPopup.close();
-        currentPopup = undefined;
-    }
-}
+WA.room.onLeaveLayer('clockZone').subscribe(() => {
+    WA.chat.sendChatMessage("Goodbye!", 'Mr Robot');
+});
