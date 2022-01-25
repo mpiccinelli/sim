@@ -22,4 +22,4 @@ helloWorldPopup = WA.room.onEnterLayer("myZone").subscribe(() => {
 // Close the popup when we leave the zone.
 WA.room.onLeaveLayer("myZone").subscribe(() => {
     helloWorldPopup.close();
-});
+})
